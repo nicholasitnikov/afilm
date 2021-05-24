@@ -1,0 +1,4 @@
+.team__grid-item_align_tl {
+    justify-content: flex-start;
+    align-items: flex-start;
+}

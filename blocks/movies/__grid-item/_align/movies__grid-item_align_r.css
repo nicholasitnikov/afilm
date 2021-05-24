@@ -1,0 +1,4 @@
+.movies__grid-item_align_r {
+    align-items: flex-end;
+    text-align: right;
+}

@@ -1,0 +1,10 @@
+.mission {
+    background: #D8B34F;
+    padding: 50px 100px 450px;
+    display: flex;
+    justify-content: center;
+    background-image: url('/images/mission.png');
+    background-position:bottom right;
+    background-repeat: no-repeat;
+    background-size: auto 400px;
+}

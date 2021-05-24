@@ -1,0 +1,73 @@
+@import url('/vendor/fonts.css');
+@import url('/vendor/normalize.css');
+@import url('/blocks/root/root.css');
+
+@import url('/blocks/section-heading/section-heading.css');
+@import url('/blocks/section-text/section-text.css');
+
+@import url('/blocks/header/header.css');
+@import url('/blocks/header/__heading/header__heading.css');
+@import url('/blocks/header/__top-block/header__top-block.css');
+@import url('/blocks/header/__logo/header__logo.css');
+
+@import url('/blocks/menu/menu.css');
+@import url('/blocks/menu/__list/menu__list.css');
+@import url('/blocks/menu/__item/menu__item.css');
+@import url('/blocks/menu/__link/menu_link.css');
+
+@import url('/blocks/about/about.css');
+@import url('/blocks/about/__heading/about__heading.css');
+@import url('/blocks/about/__text/about__text.css');
+@import url('/blocks/about/__text-block/about__text-block.css');
+@import url('/blocks/about/__collage/about__collage.css');
+@import url('/blocks/about/__link/about__link.css');
+
+@import url('/blocks/projects/projects.css');
+@import url('/blocks/projects/__poster/projects__poster.css');
+@import url('/blocks/projects/__link/projects__link.css');
+
+@import url('/blocks/team/team.css');
+@import url('/blocks/team/__grid/team__grid.css');
+@import url('/blocks/team/__grid-item/team__grid-item.css');
+@import url('/blocks/team/__grid-item/_with-background/team__grid-item_with-bakground.css');
+@import url('/blocks/team/__text-block/team__text-block.css');
+@import url('/blocks/team/__heading/team__heading.css');
+
+@import url('/blocks/team/__grid-item/_name/team__grid-item_name_any.css');
+@import url('/blocks/team/__grid-item/_name/team__grid-item_name_lina.css');
+@import url('/blocks/team/__grid-item/_name/team__grid-item_name_petr.css');
+@import url('/blocks/team/__grid-item/_name/team__grid-item_name_phill.css');
+@import url('/blocks/team/__grid-item/_name/team__grid-item_name_sergey.css');
+@import url('/blocks/team/__grid-item/_name/team__grid-item_name_zoya.css');
+
+@import url('/blocks/team/__grid-item/_align/team__grid-item_align_bl.css');
+@import url('/blocks/team/__grid-item/_align/team__grid-item_align_br.css');
+@import url('/blocks/team/__grid-item/_align/team__grid-item_align_tl.css');
+@import url('/blocks/team/__grid-item/_align/team__grid-item_align_tr.css');
+
+@import url('/blocks/mission/mission.css');
+@import url('/blocks/mission/__text-block/mission__text-block.css');
+
+@import url('/blocks/inspiration/inspiration.css');
+@import url('/blocks/inspiration/__heading/inspiration__heading.css');
+@import url('/blocks/inspiration/__text-block/inspiration__text-block.css');
+
+@import url('/blocks/movies/movies.css');
+@import url('/blocks/movies/__heading/movies__heading.css');
+@import url('/blocks/movies/__grid/movies__grid.css');
+@import url('/blocks/movies/__grid-item/movies__grid-item.css');
+@import url('/blocks/movies/__grid-item/_align/movies__grid-item_align_l.css');
+@import url('/blocks/movies/__grid-item/_align/movies__grid-item_align_r.css');
+
+@import url('/blocks/movies/__grid-item/_with-background/movies__grid-item_with-background.css');
+@import url('/blocks/movies/__grid-item/_image/movies__grid-item_image_adaptaion.css');
+@import url('/blocks/movies/__grid-item/_image/movies__grid-item_image_andrey-rublev.css');
+@import url('/blocks/movies/__grid-item/_image/movies__grid-item_image_chinatown.css');
+@import url('/blocks/movies/__grid-item/_image/movies__grid-item_image_hugo.css');
+@import url('/blocks/movies/__grid-item/_image/movies__grid-item_image_pierrot-le-fou.css');
+@import url('/blocks/movies/__grid-item/_image/movies__grid-item_image_song-of-the-sea.css');
+
+@import url('/blocks/footer/footer.css');
+@import url('/blocks/footer/__logo/footer__logo.css');
+@import url('/blocks/footer/__text-block/footer__text-block.css');
+@import url('/blocks/footer/__text/footer__text.css');

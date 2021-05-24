@@ -1,0 +1,16 @@
+.header {
+    background: #D8B34F;
+    color: white;
+    height: 90vh;
+    padding: 50px 100px 0;
+    border-bottom: 1px solid rgba(256, 256, 256, 0.5);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    background-image: url('/images/hero.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+}

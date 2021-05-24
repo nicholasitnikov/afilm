@@ -1,0 +1,21 @@
+.projects__link {
+    position: relative;
+    margin-left: 50px;
+    cursor: pointer;
+}
+
+.projects__link:hover::after {
+    content: 'Скачать презентацию';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    color: white;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(0,0,0,.5);
+    text-align: center;
+}

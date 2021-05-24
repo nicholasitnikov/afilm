@@ -1,0 +1,5 @@
+.team__grid-item_align_tr {
+    justify-content: flex-end;
+    align-items: flex-start;
+    text-align: right;
+}

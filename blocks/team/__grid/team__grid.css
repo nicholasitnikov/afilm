@@ -1,0 +1,6 @@
+.team__grid {
+    width: 50vw;
+    height: 50vw;
+    display: flex;
+    flex-wrap: wrap;
+}
