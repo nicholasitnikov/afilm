@@ -1,0 +1,8 @@
+.projects__link_soon {
+    cursor: auto;
+}
+
+.projects__link_soon::after {
+    content: '2022—2023';
+    cursor: auto;
+}

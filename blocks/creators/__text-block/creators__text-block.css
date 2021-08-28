@@ -1,0 +1,6 @@
+.creators__text-block {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}

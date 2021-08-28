@@ -1,0 +1,216 @@
+@media only screen and (max-width: 782px) {
+    .header {
+        padding: 25px 30px;
+        height: 80vh;
+    }
+    .header__logo {
+        width: 75px;
+    }
+    .header__heading {
+        font-size: 50px;
+    }
+    .about {
+        height: auto;
+        padding: 25px 30px;
+        flex-direction: column;
+    }
+    .menu {
+        display: none;
+    }
+    .about__text-block {
+        width: 100%;
+        padding: 0;
+    }
+    .projects {
+        padding: 0;
+        overflow: hidden;
+        flex-direction: column;
+    }
+    .projects__heading {
+        padding: 25px 30px;
+        text-align: center;
+    }
+    .projects__link {
+        margin-left: 0  ;
+    }
+    .projects__link::after {
+        width: 80vw;
+        left: 10vw;
+        bottom: 25px;
+    }
+    .projects__poster {
+        width: 100%;
+        height: auto;
+    }
+    .team {
+        flex-direction: column-reverse;
+    }
+    .team__grid {
+        width: 100vw;
+        height: auto;
+    }
+    .team__grid-item {
+        width: 50vw;
+        height: 50vw;
+        border: none;
+        justify-content: center;
+    }
+    .team__grid-item:nth-child(5) {
+        display: none;
+    }
+    .team__grid-item:nth-child(6) {
+        order: 6;
+        display: none;
+    }
+    .team__grid-item:nth-child(7) {
+        display: none;
+    }
+    .team__grid-item:nth-child(8) {
+        display: none;
+    }
+    .team__grid-item:nth-child(9) {
+        display: none;
+    }
+    .team__grid-item:nth-child(10) {
+        display: none;
+    }
+    .team__grid-item:nth-child(11) {
+        display: none;
+    }
+    .team__grid-item:nth-child(12) {
+        display: none;
+    }
+    
+    .team__text-block {
+        height: auto;
+        padding: 25px 30px;
+        padding-bottom: 350px;
+        background-size: auto 300px;
+    }
+    .mission {
+        padding: 25px 30px 400px;
+        background-position: bottom left;
+    }
+    .mission__text-block {
+        width: 100%;
+    }
+    .mission__big-heading {
+        font-size: 80px;
+    }
+    .creators {
+        padding:25px 30px;
+    }
+    .creators__grid {
+        flex-direction: column;
+        width: 100%;
+    }
+    .creators__grid-item {
+        justify-content: space-between;
+        width: 100%;
+    }
+    .creators__text-block {
+        flex-grow: inherit;
+        text-align: right;
+    }
+    .investors {
+        flex-direction: column;
+        align-items: center;
+        height: auto;
+    }
+    .investors__collage {
+        height: 60vh;
+        padding-top: 10vh;
+    }
+    .investors__text-block {
+        padding: 50px 30px 50px;
+        margin: 0;
+    }
+    .inspiration {
+        padding: 50px 30px 80vh;
+        background-position: bottom right;
+        background-size: auto 90vh;
+        align-items: flex-start;
+    }
+    .inspiration__text-block {
+        width: 100%;
+        order: 1;
+    }
+    .distribution {
+        padding: 50px 30px 50px;
+    }
+    .distribution__items {
+        flex-direction: column;
+        align-items: center;
+    }
+    .distribution__item {
+        padding: 15px 0;
+        
+    }
+    .investors__collage {
+        order: 3;
+    }
+    .investors__grid {
+        margin: 0;
+        width: 100%;
+    }
+    .movies__grid {
+        height: auto;
+    }
+    .movies__grid-item {
+        width: 50vw;
+        height: 50vw;
+        text-align: center;
+        align-items: center;
+    }
+    .movies__grid-item:nth-child(3) {
+        order: 4;
+    }
+    .movies__grid-item:nth-child(4) {
+        order: 3;
+    }
+    .movies__grid-item:nth-child(5) {
+        order: 6;
+    }
+    .movies__grid-item:nth-child(6) {
+        order: 5;
+    }
+    .movies__heading {
+        font-size: 24px;
+        margin-bottom: 0;
+    }
+    .footer {
+        padding: 25px 30px;
+        align-items: flex-start;
+    }
+    .footer__text-block {
+        flex-direction: column;
+    }
+    .overlay {
+        height: auto;
+        width: 100vw;
+        box-sizing: border-box;
+    }
+    .overlay__content {
+        flex-direction: column;
+        min-height: 100vh;
+        width: 100%;
+        padding: 0;
+        justify-content: flex-start;
+        box-sizing: border-box;
+    }
+    .overlay__image {
+        width: 100%;
+        height: auto;
+    }
+    .overlay__close {
+        top: 0;
+        right: 0px;
+        bottom: auto;
+    }
+    .overlay__heading {
+        margin: 40px 20px 20px;
+    }
+    .overlay__text {
+        margin: 0 20px;
+    }
+}

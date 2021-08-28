@@ -1,4 +1,11 @@
 .inspiration {
     padding: 150px 100px;
+    height: 70vh;
     background: #292929;
+    background-image: url('/images/inspiration.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center right;
+    display: flex;
+    align-items: center;
 }

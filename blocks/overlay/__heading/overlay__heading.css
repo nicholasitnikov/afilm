@@ -1,0 +1,6 @@
+.overlay__heading {
+    color: white;
+    flex-basis: 0;
+    margin: 50px 0 0;  
+    line-height: 1.5;
+}

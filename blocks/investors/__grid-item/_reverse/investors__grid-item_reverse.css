@@ -1,0 +1,4 @@
+.investors__grid-item_reverse {
+    flex-direction: row-reverse;
+    text-align: right;
+}

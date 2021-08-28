@@ -1,0 +1,6 @@
+.creators__grid-item {
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}

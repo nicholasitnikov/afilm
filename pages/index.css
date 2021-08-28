@@ -16,6 +16,7 @@
 @import url('/blocks/menu/__link/menu_link.css');
 
 @import url('/blocks/about/about.css');
+@import url('/blocks/about/__text/_extended/about__text_extended.css');
 @import url('/blocks/about/__heading/about__heading.css');
 @import url('/blocks/about/__text/about__text.css');
 @import url('/blocks/about/__text-block/about__text-block.css');
@@ -25,6 +26,7 @@
 @import url('/blocks/projects/projects.css');
 @import url('/blocks/projects/__poster/projects__poster.css');
 @import url('/blocks/projects/__link/projects__link.css');
+@import url('/blocks/projects/__link/_soon/projects__link_soon.css');
 
 @import url('/blocks/team/team.css');
 @import url('/blocks/team/__grid/team__grid.css');
@@ -32,21 +34,51 @@
 @import url('/blocks/team/__grid-item/_with-background/team__grid-item_with-bakground.css');
 @import url('/blocks/team/__text-block/team__text-block.css');
 @import url('/blocks/team/__heading/team__heading.css');
+@import url('/blocks/team/__grid-item-label/team__grid-item-label.css');
 
 @import url('/blocks/team/__grid-item/_name/team__grid-item_name_any.css');
 @import url('/blocks/team/__grid-item/_name/team__grid-item_name_lina.css');
 @import url('/blocks/team/__grid-item/_name/team__grid-item_name_petr.css');
-@import url('/blocks/team/__grid-item/_name/team__grid-item_name_phill.css');
+@import url('/blocks/team/__grid-item/_name/team__grid-item_name_iuliya.css');
 @import url('/blocks/team/__grid-item/_name/team__grid-item_name_sergey.css');
+@import url('/blocks/team/__grid-item/_name/team__grid-item_name_elkin.css');
 @import url('/blocks/team/__grid-item/_name/team__grid-item_name_zoya.css');
+@import url('/blocks/team/__grid-item/_name/team__grid-item_name_cheliyanc.css');
 
 @import url('/blocks/team/__grid-item/_align/team__grid-item_align_bl.css');
 @import url('/blocks/team/__grid-item/_align/team__grid-item_align_br.css');
 @import url('/blocks/team/__grid-item/_align/team__grid-item_align_tl.css');
 @import url('/blocks/team/__grid-item/_align/team__grid-item_align_tr.css');
 
+@import url('/blocks/creators/creators.css');
+@import url('/blocks/creators/__grid/creators__grid.css');
+@import url('/blocks/creators/__label/creators__label.css');
+@import url('/blocks/creators/__grid-item/creators__grid-item.css');
+@import url('/blocks/creators/__text-block/creators__text-block.css');
+@import url('/blocks/creators/__image/creators__image.css');
+@import url('/blocks/creators/__heading/creators__heading.css');
+@import url('/blocks/creators/__text/creators__text.css');
+@import url('/blocks/creators/__text/_heading/creators__text_heading.css');
+
+@import url('/blocks/distribution/distribution.css');
+@import url('/blocks/distribution/__items/distribution__items.css');
+@import url('/blocks/distribution/__item/distribution__item.css');
+@import url('/blocks/distribution/__heading/distribution__heading.css');
+@import url('/blocks/distribution/__text/distribution__text.css');
+
+@import url('/blocks/investors/investors.css');
+@import url('/blocks/investors/__heading/investors__heading.css');
+@import url('/blocks/investors/__grid/investors__grid.css');
+@import url('/blocks/investors/__grid-item/investors__grid-item.css');
+@import url('/blocks/investors/__text-block/investors__text-block.css');
+@import url('/blocks/investors/__collage/investors__collage.css');
+@import url('/blocks/investors/__grid-item-text/investors__grid-item-text.css');
+@import url('/blocks/investors/__grid-item-image/investors__grid-item-image.css');
+@import url('/blocks/investors/__grid-item/_reverse/investors__grid-item_reverse.css');
+
 @import url('/blocks/mission/mission.css');
 @import url('/blocks/mission/__text-block/mission__text-block.css');
+@import url('/blocks/mission/__big-heading/mission__big-heading.css');
 
 @import url('/blocks/inspiration/inspiration.css');
 @import url('/blocks/inspiration/__heading/inspiration__heading.css');
@@ -66,8 +98,23 @@
 @import url('/blocks/movies/__grid-item/_image/movies__grid-item_image_hugo.css');
 @import url('/blocks/movies/__grid-item/_image/movies__grid-item_image_pierrot-le-fou.css');
 @import url('/blocks/movies/__grid-item/_image/movies__grid-item_image_song-of-the-sea.css');
+@import url('/blocks/movies/__grid-item/_big/movies__grid-item_big.css');
+@import url('/blocks/movies/__text/movies__text.css');
 
 @import url('/blocks/footer/footer.css');
 @import url('/blocks/footer/__logo/footer__logo.css');
 @import url('/blocks/footer/__text-block/footer__text-block.css');
 @import url('/blocks/footer/__text/footer__text.css');
+
+@import url('/blocks/overlay/overlay.css');
+@import url('/blocks/overlay/__content/overlay__content.css');
+@import url('/blocks/overlay/__heading/overlay__heading.css');
+@import url('/blocks/overlay/__image/overlay__image.css');
+@import url('/blocks/overlay/__text/overlay__text.css');
+@import url('/blocks/overlay/__close/overlay__close.css');
+
+@import url('/blocks/maintenance/maintenance.css');
+@import url('/blocks/maintenance/__heading/maintenance__heading.css');
+@import url('/blocks/maintenance/__logo/maintenance__logo.css');
+
+@import url('/blocks/media/media.css');

@@ -1,0 +1,7 @@
+.creators__text {
+    margin: 0;
+}
+
+.creators__text:first-of-type {
+    margin-bottom: 4px;
+}

@@ -1,0 +1,5 @@
+.overlay__image {
+    width: auto;
+    height: 100%;
+    align-self: flex-start;
+}

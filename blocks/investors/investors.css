@@ -1,0 +1,8 @@
+.investors {
+    background: #99CC00;
+    min-height: 70vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+
+}

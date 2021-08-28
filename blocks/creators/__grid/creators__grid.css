@@ -1,0 +1,5 @@
+.creators__grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}

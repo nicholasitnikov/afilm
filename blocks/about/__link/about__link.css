@@ -1,9 +1,9 @@
 .about__link {
     margin-top: 0;
     display: block;
-    background: white;
-    color: #D8B34F;
+    background: #99CC00;
+    color: white;
     text-decoration: none;
     font-weight: normal;
-    padding: 10px;
+    padding: 10px 12px 12px 12px;
 }

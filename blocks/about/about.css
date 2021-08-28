@@ -1,8 +1,7 @@
 .about {
-    background: #D8B34F;
+    background: #292929;
     padding: 50px 100px 50px;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    height: 80vh;
 }
