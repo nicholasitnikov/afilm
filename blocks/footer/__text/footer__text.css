@@ -1,4 +1,9 @@
 .footer__text {
     line-height: 1.6;
     margin-left: 45px;
+    font-size: 18px;
+}
+
+.footer__text:first-child {
+    margin-left: 0;
 }

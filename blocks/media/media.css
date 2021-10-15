@@ -55,6 +55,12 @@
         border: none;
         justify-content: center;
     }
+    .team__grid-item:nth-child(3) {
+        display: none;
+    }
+    .team__grid-item:nth-child(4) {
+        display: none;
+    }
     .team__grid-item:nth-child(5) {
         display: none;
     }
@@ -79,6 +85,18 @@
     }
     .team__grid-item:nth-child(12) {
         display: none;
+    }
+    .team__grid-item:nth-child(13) {
+        order: 14;
+    }
+    .team__grid-item:nth-child(14) {
+        order: 13;
+    }
+    .team__grid-item:nth-child(15) {
+        order: 16;
+    }
+    .team__grid-item:nth-child(16) {
+        order: 15;
     }
     
     .team__text-block {
